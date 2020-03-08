@@ -53,7 +53,7 @@ def apply_coupons(cart, coupons)
         cart << cart_item_with_coupon
       end
     end
-    conter += 1
+    counter += 1
   end
 end
 
