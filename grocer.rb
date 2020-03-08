@@ -36,6 +36,8 @@ end
 def apply_coupons(cart, coupons)
   counter = 0 
   while counter < coupons.length
+    conter += 1
+  end
 end
 
 def apply_clearance(cart)
