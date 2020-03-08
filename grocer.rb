@@ -22,7 +22,7 @@ while counter < cart.length
     new_cart_item[:count] += 1 
   else
     new_cart_item = {
-      :item => cart[counter][:item]
+      :item => cart[counter][:item], 
     }
   end
   counter += 1
