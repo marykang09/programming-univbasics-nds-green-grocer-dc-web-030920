@@ -34,6 +34,8 @@ while counter < cart.length
   new_cart
 end
 
+
+
 def apply_coupons(cart, coupons)
 
 end
